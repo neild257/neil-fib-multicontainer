@@ -2,12 +2,10 @@
 
 A Fibonacci appliction that provide a multi-container docker application to get number for a perticular index and store indices on postgres and redis databases.
 
-## Authors
+## Author
 
-* **Harshit Pareek** - *Software Engineer* - :sunglasses: :computer:
-
-## Demo
-![alt Production Image](/images/productionImage.png?raw=true "Image shows the index and values for the fibonacci number")
+* **Neil D** - Fullstack Developer - Cognizant
+<br />Looking for new opportunites - contact via mail - neildsouza257@gmail.com
 
 ## License
 
